@@ -1,0 +1,19 @@
+p{
+  font-family: Roboto,Arial;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+body{
+  /* these are used to inherit the style*/
+  font-family:Roboto,arial;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  padding-top: 62px;
+  padding-bottom:250px;
+  padding-left: 80px;
+
+}
+
